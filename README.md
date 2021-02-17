@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crakcode&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crakcode)](https://github.com/anuraghazra/github-readme-stats)
+</a>
