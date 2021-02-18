@@ -10,9 +10,10 @@
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crakcode&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  <div align=center>
-
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crakcode&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cracker06)](https://solved.ac/cracker06)
 
 <!--
 **crakcode/crakcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
