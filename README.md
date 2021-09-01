@@ -13,6 +13,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crakcode&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cracker06)](https://solved.ac/cracker06)
 
 </div>
 
